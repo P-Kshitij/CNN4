@@ -23,7 +23,7 @@ config.batch_size = 32
 
 
 
-train_dir = "../dogcat-data/train"
+train_= "../dogcat-data/train"
 val_dir = "../dogcat-data/validation"
 
 nb_train_samples = get_nb_files(train_dir)
